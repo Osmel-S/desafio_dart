@@ -1,16 +1,13 @@
-# dart_application
+# Aplicação Dart
 
-A new Flutter application.
+Implementando uma função que recebe um número inteiro positivo e retorne o
+somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
+número passado.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Começando
 
-A few resources to get you started if this is your first Flutter project:
+Na package test temos a classe test.dart que implementa o código, o código pode ser testado clonando o projeto para um repositório local ou implementando pelo dartpad no link 
+https://dartpad.dev/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
