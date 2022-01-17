@@ -13,5 +13,5 @@ main() {
       print(i);
     }
   }
-  print("Somatóri : $tot");
+  print("Somatório : $tot");
 }
